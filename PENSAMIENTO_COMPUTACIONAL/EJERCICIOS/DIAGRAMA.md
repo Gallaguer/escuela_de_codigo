@@ -10,10 +10,15 @@
    2- Declarar variables (mts, yardas como real, res) Float
    
    3- Escribir o Mostrar ("Ingresa el valor en metros")
+   
    4- Asignar (metros)
+   
    5- Mostrar
+   
    6- Res= metros * yardas
+   
    7- Mostrar ("Las yardas que corresponden al numero de metros ingresado,es"res
+   
    8- Fin
 
 
