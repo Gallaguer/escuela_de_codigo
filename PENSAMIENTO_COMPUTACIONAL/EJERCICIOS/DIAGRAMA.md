@@ -6,7 +6,9 @@
 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
       
    1- Inicio
+   
    2- Declarar variables (mts, yardas como real, res) Float
+   
    3- Escribir o Mostrar ("Ingresa el valor en metros")
    4- Asignar (metros)
    5- Mostrar
